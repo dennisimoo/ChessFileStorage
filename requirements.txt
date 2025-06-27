@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+chess
+Pillow
+berserk
+requests

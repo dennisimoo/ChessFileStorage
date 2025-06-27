@@ -1,0 +1,23 @@
+.card {
+    border-color: var(--bs-gray-700);
+}
+
+.progress {
+    height: 0.5rem;
+}
+
+#pgnOutput {
+    display: none;
+}
+
+textarea {
+    font-family: monospace;
+    resize: vertical;
+}
+
+.feather {
+    width: 16px;
+    height: 16px;
+    vertical-align: text-bottom;
+    margin-right: 4px;
+}
